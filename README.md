@@ -1,0 +1,1 @@
+This repository contains details on the benchmarking scripts run to generate the results described in OpenCUBE Deliverable 5.1, and where applicable, the visualisation scripts to generate the figures presented.

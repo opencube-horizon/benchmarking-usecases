@@ -1,0 +1,19 @@
+
+Performance Report 
+    Duration: 446.11s
+    Number of Tasks: 378
+    Compute Duration: 2107.0s
+    Transfer Duration: 25.26s
+    Number of Workers: 1
+    
+Function retrieve@type=cd, occurrences 6, average 7.805s.
+Function retrieve@type=(.)f, occurrences 264, average 7.369s.
+Function efi, occurrences 6, average 14.518s.
+Function sot, occurrences 12, average 1.955s.
+Function write, occurrences 18, average 0.052s.
+Function transfer, occurrences 159, average 0.159s.
+
+Console Log
+CURRENTLY INACCURATE - need to fix memory measurement!
+    Average read rate 166157861.749 bytes/s (166.158 MB/s)
+    Average write rate 164315957999.500 bytes/s (164315.958 MB/s)
