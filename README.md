@@ -1,5 +1,7 @@
 # Initial Use-case Benchmarking Data
 
+[![DOI](https://zenodo.org/badge/742026844.svg)](https://doi.org/10.5281/zenodo.13941412)
+
 This repository contains datasets and information of the source code used for the initial benchmarking results of the use-cases on available hardware, as reported in Deliverable 5.1. 
 
 Details of the source code for the different use-cases is provided below:
